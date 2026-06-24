@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Anass Chadli</h1>
 
 # 💫 About Me:
-I am a fourth-year computer engineering student at Cadi Ayyad University University, National School of Applied Sciences of Marrakech, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a fourth-year computer engineering student at the National School of Applied Sciences of Marrakech, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
 
